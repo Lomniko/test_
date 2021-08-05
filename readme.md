@@ -1,1 +1,3 @@
-Greetings, it's 5:24
+Hello
+
+There was some text here. It's gone now.
